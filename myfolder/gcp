@@ -6,3 +6,7 @@ fruits[1] = 'banana'
 print(fruits) 
 
 # Output: TypeError: 'tuple' object does not support item assignment
+#
+#
+#data is added to gcp #3/26
+#
